@@ -184,12 +184,12 @@ footer {
   }
 }
 
-div.footer-links {
+div.footer-links, .skills {
     list-style: none;
 
 }
 
-ul.skills {
+ {
     list-style-type: none;
 
 }
